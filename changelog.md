@@ -15,3 +15,6 @@ Date format: YYYY-MM-DD
 -  Modified controllers/Welcome to display the modified homepage view.
 -  Installed the package-restful package from the Jedi Academy.
 -  Edit config/autoload. 
+-  Added Job.php (RESTful controller)
+-  Add CRUD method in Job.php
+-  Change Tasks.php to extends CSV_Model
