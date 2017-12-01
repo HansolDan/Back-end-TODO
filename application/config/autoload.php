@@ -119,6 +119,8 @@ $autoload['config'] = array();
 */
 $autoload['language'] = array();
 
+$autoload['packages'] = array(APPPATH.'third_party/restful/');
+
 /*
 | -------------------------------------------------------------------
 |  Auto-load Models

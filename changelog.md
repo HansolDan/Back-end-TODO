@@ -13,3 +13,5 @@ Date format: YYYY-MM-DD
 -  Cleaned up MY_Controller
 -  Replaced the contents of views/homepage.php with a message to the effect that this is a server webapp.
 -  Modified controllers/Welcome to display the modified homepage view.
+-  Installed the package-restful package from the Jedi Academy.
+-  Edit config/autoload. 
