@@ -11,3 +11,5 @@ Date format: YYYY-MM-DD
 -  Removed all the other PHP files in the views folder, except homepage.php
 -  Deleted unit test
 -  Cleaned up MY_Controller
+-  Replaced the contents of views/homepage.php with a message to the effect that this is a server webapp.
+-  Modified controllers/Welcome to display the modified homepage view.

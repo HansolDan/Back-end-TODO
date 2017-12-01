@@ -20,7 +20,7 @@ class Welcome extends Application
 	public function index()
 	{
 
-        $this->data['welcome_message'] = "This is a server webapp";
+        $this->data['welcome_message'] = "This is a server Webapp.";
         $this->data['pagebody'] = 'homepage';
         $this->render();
 	}
