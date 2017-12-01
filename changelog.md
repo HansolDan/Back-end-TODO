@@ -16,5 +16,10 @@ Date format: YYYY-MM-DD
 -  Installed the package-restful package from the Jedi Academy.
 -  Edit config/autoload. 
 -  Added Job.php (RESTful controller)
--  Add CRUD method in Job.php
+-  Added CRUD method in Job.php
 -  Change Tasks.php to extends CSV_Model
+-  Edited Job::index_get() in Job.php
+-  Specified response format in rest.php
+-  Edited index_post() method in Job.php
+-  Edited index_put() method in Job.php
+-  Edited item_delete() method in Job.php
