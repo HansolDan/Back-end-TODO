@@ -23,3 +23,7 @@ Date format: YYYY-MM-DD
 -  Edited index_post() method in Job.php
 -  Edited index_put() method in Job.php
 -  Edited item_delete() method in Job.php
+
+## 2017-12-01 : Backend  
+-  Updated Restful package
+-  Edited Curl.php
