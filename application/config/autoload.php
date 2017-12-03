@@ -117,7 +117,8 @@ $autoload['config'] = array();
 | "codeigniter_lang.php" would be referenced as array('codeigniter');
 |
 */
-$autoload['language'] = array();
+
+$autoload['packages'] = array(APPPATH.'third_party/restful/');
 
 /*
 | -------------------------------------------------------------------
